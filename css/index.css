@@ -25,3 +25,21 @@ h1{
     padding: 20px;
     margin: 20px;
 }
+.intro{
+    background-color: #ddd;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 12px;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color:black;
+    color: white;
+}
+.car1{
+    background-image: url("../images/back4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
