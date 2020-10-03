@@ -25,3 +25,8 @@ function check() {
       } else if (cad === 6){
         ("Saturday");
       }
+      if (date < 1 || date>31 ){
+        alert("Please enter a valid date");
+      } else if (month == "" || month < 1  || month > 12 ){
+        alert("Please enter a valid month");
+      } else if (year < 1  || year>3021) 
