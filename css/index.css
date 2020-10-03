@@ -10,3 +10,18 @@ h1{
     color: #fff;
     text-align: center;
 }
+.form-group1{
+    text-align: center;
+}
+.container{
+    text-align: center;  
+}
+.jumbotron{
+    font-size: 20px;
+    background-image: url("../images/back1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
