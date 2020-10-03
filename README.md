@@ -6,9 +6,12 @@ This is a web application that takes a user's birthday and calculates the day of
 ![Steve99-coder](./images/cover.jpg)
 ## Setup/Installation Requirements
 1. Open the live URL link to the website.
+   (https://steve99-coder.github.io/mpft36-0/)
 2. Fill the form with the required details.
 3. Press the click button.
 4. A pop up up message with your Akan name will appear.
+## Live Link To The Github Pages
+https://steve99-coder.github.io/mpft36-0/
 ## Behaviour Driven Development (BDD)
 1. The Website Displays Form For Entering Day,Month,Year & Gender
        INPUT: "User's Day Filled"
