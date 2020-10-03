@@ -10,3 +10,18 @@ function check() {
     cap.setMonth(parseInt(month)-1);
     cap.setFullYear(parseInt(year));
     var cad = cap.getDay();
+    if (cad === 0){
+        ("Sunday");
+      } else if(cad === 1){
+        ("Monday");
+      } else if(cad === 2){
+        ("Tuesday");
+      } else if(cad === 3){
+        ("Wednesday");
+      } else if(cad === 4){
+        ("Thursday");
+      } else if(cad === 5){
+        ("Friday");
+      } else if (cad === 6){
+        ("Saturday");
+      }
