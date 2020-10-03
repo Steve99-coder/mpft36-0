@@ -43,3 +43,14 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.car2{
+    background-image: url("../images/back3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.car3{
+    background-image: url("../images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
