@@ -11,25 +11,25 @@ This is a web application that takes a user's birthday and calculates the day of
 4. A pop up up message with your Akan name will appear.
 ## Behaviour Driven Development (BDD)
 1. The Website Displays Form For Entering Day,Month,Year & Gender
-    INPUT: "User's Day Filled"
-    INPUT: "User's Month Filled"
-    INPUT: "User's Year Filled"
-    INPUT: "User's Gender Filled"
-    OUTPUT: "Displays User's Akan Name"
+       INPUT: "User's Day Filled"
+       INPUT: "User's Month Filled"
+       INPUT: "User's Year Filled"
+       INPUT: "User's Gender Filled"
+       OUTPUT: "Displays User's Akan Name"
 2. The Website Displays an Error Message if the Day Input Left Blank
-    INPUT: ""
-    OUTPUT: "Displays Error Message"
+       INPUT: ""
+       OUTPUT: "Displays Error Message"
 3. The Website Displays an Error Message if the Month Input Left Blank
-    INPUT: ""
-    OUTPUT: "Displays Error Message"   
+       INPUT: ""
+       OUTPUT: "Displays Error Message"   
 4. The Website Displays an Error Message if the Year Input Left Blank
-    INPUT: ""
-    OUTPUT: "Displays Error Message"
+       INPUT: ""
+       OUTPUT: "Displays Error Message"
 5. The Website Displays an Error Message if the Gender Not picked
-    INPUT: ""
-    OUTPUT: "Display an Error Message"
+       INPUT: ""
+       OUTPUT: "Display an Error Message"
 6. The User Clears Form and Reset the Message on Click
-    INPUT: "Click Reset Button"
+       INPUT: "Click Reset Button"
 ## Technologies Used
     HTML  
     CSS (Bootstrap)
