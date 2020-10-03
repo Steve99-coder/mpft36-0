@@ -29,4 +29,11 @@ function check() {
         alert("Please enter a valid date");
       } else if (month == "" || month < 1  || month > 12 ){
         alert("Please enter a valid month");
-      } else if (year < 1  || year>3021) 
+      } else if (year < 1  || year>3021) {
+        alert("Please enter a valid year");
+      } else if(document.getElementById("male").checked == true && document.getElementById("female").checked == false){
+        alert("Your Akan name is " + maleNames[cad]);
+      } else if (document.getElementById("male").checked == false && document.getElementById("female").checked == true){
+        alert("Your Akan name is " + femaleNames[cad]);
+      }
+}
